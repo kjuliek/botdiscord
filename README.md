@@ -1,2 +1,3 @@
 # botdiscord
-![Historical (2)](https://github.com/kjuliek/botdiscord/assets/112950414/8c7f0b7d-7133-4509-b6c4-f32d7819346d)
+
+![Historique](https://github.com/kjuliek/botdiscord/assets/112950414/4304ee0e-af3d-43a5-bb88-f326be87d234)
