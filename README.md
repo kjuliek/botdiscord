@@ -12,3 +12,10 @@ Plusieurs API ont été utilisées :
 - https://newsapi.org/ pour les articles (pas implémenté)
 - https://restcountries.com/v3.1/ pour les pays aléatoire (ne fonctionne pas)
 
+Ainsi que les liens pour la documentation :
+- https://docs.python.org/fr/3/
+- https://devdocs.io/javascript/
+- https://go.dev/doc/
+- https://docs.oracle.com/en/java/
+- https://learn.microsoft.com/fr-fr/dotnet/csharp/
+- https://www.sqlite.org/docs.html
